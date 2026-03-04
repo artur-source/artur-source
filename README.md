@@ -1,10 +1,14 @@
 # Olá, sou Artur Alves Santos! 👋
 
-Sou um **Desenvolvedor em formação** apaixonado por tecnologia, com foco em desenvolvimento **Web** e **Python**. Atualmente, estou aprimorando minhas habilidades e buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
+Sou um **Desenvolvedor em formação** apaixonado por tecnologia, com foco em desenvolvimento **Web**, **Python**, **Análise de Dados**, **Machine Learning** e **Cibersegurança**. Atualmente, estou aprimorando minhas habilidades e buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
 
 ## Sobre Mim
 
 - 📍 Itaquaquecetuba-SP, Brasil
+- 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas (5º semestre)
+
+## Conecte-se Comigo
+
 - ✉️ [arturalvessantos2@gmail.com](mailto:arturalvessantos2@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 💼 [Portfólio](https://artur-source.github.io/portfolio-artur-novo/)
@@ -21,6 +25,13 @@ Minhas principais áreas de interesse e tecnologias que venho estudando incluem:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> </a>
 </p>
 
 ## Estatísticas do GitHub
@@ -30,8 +41,6 @@ Minhas principais áreas de interesse e tecnologias que venho estudando incluem:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-source&layout=compact&theme=dark" alt="Linguagens Mais Usadas"/>
 </p>
 
-
-
 ## Projetos em Destaque
 
 Aqui estão alguns dos projetos que desenvolvi:
@@ -40,20 +49,50 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 Sistema de Gestão para Clínicas de Psicologia. Desenvolvido com foco em organização e eficiência para o gerenciamento de pacientes e agendamentos.
 
-- **Tecnologias:** CSS
+- **Tecnologias:** CSS, JavaScript, HTML
 
-### [portfolio-artur-novo](https://artur-source.github.io/portfolio-artur-novo/)
+### [JV STORE](https://artur-source.github.io/jvstore/)
+
+E-commerce funcional e responsivo, com foco em performance mobile e gestão dinâmica de dados.
+
+- **Tecnologias:** HTML, CSS, JavaScript
+
+### [Invoice Generator](https://artur-source.github.io/invoice-generator/)
+
+Gerador de faturas estático e profissional, ideal para freelancers e pequenas empresas.
+
+- **Tecnologias:** HTML, CSS, JavaScript
+
+### [Portfólio Pessoal](https://artur-source.github.io/portfolio-artur-novo/)
 
 Meu portfólio pessoal, onde apresento meus projetos e habilidades. Uma vitrine para meus trabalhos e aprendizados.
 
-- **Tecnologias:** HTML
+- **Tecnologias:** HTML, CSS, JavaScript
 
-### [artur-alves-curriculo](https://artur-source.github.io/artur-alves-curriculo/)
+### [Currículo Online](https://artur-source.github.io/artur-alves-curriculo/)
 
 Uma página de currículo online, detalhando minha trajetória acadêmica e profissional, além das minhas competências técnicas.
 
-- **Tecnologias:** HTML
+- **Tecnologias:** HTML, CSS, JavaScript
+
+## Experiência Profissional
+
+#### Auxiliar Técnico | Ci Informática
+
+Agosto 2025 – Presente
+
+Suporte técnico e manutenção de rotinas sistêmicas. Atuação na análise de ocorrências e proposição de soluções para o aprimoramento da infraestrutura.
+
+#### Estagiário | Ci Informática
+
+Março 2025 – Agosto 2025
+
+Suporte operacional e mitigação de falhas técnicas em hardware e software, com foco em rigor metodológico e colaboração multidisciplinar.
+
+## Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** (5º semestre) - [Nome da Instituição, se desejar adicionar]
 
 ---
 
-_Este README de perfil foi gerado automaticamente por Manus AI._
+_Este README foi atualizado para refletir minhas habilidades e projetos mais recentes._

@@ -91,7 +91,7 @@ Suporte operacional e mitigação de falhas técnicas em hardware e software, co
 
 ## Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas** (5º semestre) - UniPiaget]
+- **Análise e Desenvolvimento de Sistemas** (5º semestre) - UniPiaget.
 
 ---
 

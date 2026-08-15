@@ -1,98 +1,68 @@
-# Olá, sou Artur Alves Santos! 👋
+# Artur Alves Santos
 
-Sou um **Desenvolvedor em formação** apaixonado por tecnologia, com foco em desenvolvimento **Web**, **Python**, **Análise de Dados**, **Machine Learning** e **Cibersegurança**. Atualmente, estou aprimorando minhas habilidades e buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
+## Desenvolvedor Full Stack Júnior | Analista de Sistemas
 
-## Sobre Mim
+Construo aplicações web, SaaS e ferramentas de negócio, do requisito ao deploy. Trabalho principalmente com TypeScript, React, Next.js, Node.js, PostgreSQL e Supabase, com experiência prática em suporte técnico, SQL, automação e análise de incidentes.
 
-- 📍 Itaquaquecetuba-SP, Brasil
-- 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas (5º semestre)
+No GitHub, publico produtos reais, ferramentas de engenharia e estudos técnicos com código, testes e documentação verificáveis.
 
-## Conecte-se Comigo
+[Portfólio](https://artur-source.github.io/portfolio-artur-novo/) · [LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338) · [Currículo](https://artur-source.github.io/artur-alves-curriculo/) · [Contato](mailto:arturalvessantos2@gmail.com)
 
-- ✉️ [arturalvessantos2@gmail.com](mailto:arturalvessantos2@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💼 [Portfólio](https://artur-source.github.io/portfolio-artur-novo/)
-- 📄 [Currículo Online](https://artur-source.github.io/artur-alves-curriculo/)
+## O que faço
 
-## Habilidades Técnicas
+Atuo entre produto e operação. Levanto requisitos, modelo fluxos, implemento interfaces e APIs, conecto bancos de dados, escrevo testes e acompanho o software depois do deploy. A experiência com suporte técnico também faz parte dessa forma de trabalhar: investigar logs, reproduzir falhas e explicar uma solução importam tanto quanto escrever o código.
 
-Minhas principais áreas de interesse e tecnologias que venho estudando incluem:
+## Stack principal
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> </a>
-</p>
+| Área | Tecnologias e práticas |
+|---|---|
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, APIs REST, tRPC, Zod, Drizzle ORM |
+| Dados | PostgreSQL, Supabase, MySQL, SQL, Python, pandas |
+| Qualidade | Vitest, pytest, Playwright, testes de API, lint e typecheck |
+| Operação | Git, GitHub Actions, Docker, Vercel, troubleshooting e análise de logs |
 
-## Estatísticas do GitHub
+## Projetos em destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artur-source&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-source&layout=compact&theme=dark" alt="Linguagens Mais Usadas"/>
-</p>
+### Produtos reais
 
-## Projetos em Destaque
+| Projeto | O que demonstra |
+|---|---|
+| [RegiFlex](https://appregiflex.com.br) | SaaS para clínicas com fluxo de pacientes, check-in, filas, permissões e módulos operacionais. A representação pública do projeto está em [`regiflex-polish`](https://github.com/artur-source/regiflex-polish). |
+| JV Store | E-commerce desenvolvido para cliente real, com catálogo, estoque, checkout, painel administrativo e integração de pagamentos. O código permanece privado. |
+| JSC / Eukairia | Sistema privado para site, inscrições, consulta e operação de evento, com Next.js, Supabase, RLS, autenticação e painel administrativo. |
 
-Aqui estão alguns dos projetos que desenvolvi:
+### Engenharia e qualidade
 
-### [RegiFlex](https://artur-source.github.io/RegiFlex/)
+| Projeto | O que demonstra |
+|---|---|
+| [ShareForge](https://github.com/artur-source/shareforge) | Ferramenta Windows em C#/.NET 8 para compartilhamentos SMB e permissões NTFS, com separação por camadas e testes xUnit. |
+| [PrintCheck ESC/POS](https://github.com/artur-source/printcheck-escpos) | Diagnóstico de impressoras térmicas, descoberta de dispositivos, transporte TCP/IP e construção de comandos ESC/POS. |
+| OrderFlow | Plataforma orientada a eventos para processamento de pedidos, com filas, retry, idempotência e observabilidade. Repositório público após a primeira versão validada. |
+| TicketFlow | Sistema de chamados usado como laboratório de Full Stack e QA Automation, com testes de unidade, API, integração e E2E. Repositório público após a primeira versão validada. |
 
-Sistema de Gestão para Clínicas de Psicologia. Desenvolvido com foco em organização e eficiência para o gerenciamento de pacientes e agendamentos.
+### Dados, IA e frontend
 
-- **Tecnologias:** CSS, JavaScript, HTML
+| Projeto | O que demonstra |
+|---|---|
+| DataPulse | Pipeline reproduzível de ingestão, transformação, qualidade de dados e camada analítica com dashboard. Repositório público após a primeira versão validada. |
+| [GPT From Scratch](https://github.com/artur-source/gpt-from-scratch) | Implementação educacional de um modelo Transformer em PyTorch, com atenção causal, tokenização por caractere, treino e geração. |
+| Pulse Analytics | Interface de analytics com filtros, gráficos, estados de carregamento, acessibilidade e identidade visual própria. Repositório público após a primeira versão validada. |
 
-### [JV STORE](https://artur-source.github.io/jvstore/)
+## Experiência
 
-E-commerce funcional e responsivo, com foco em performance mobile e gestão dinâmica de dados.
+Sou cofundador e desenvolvedor Full Stack na Core & Patch, onde participo do planejamento e do desenvolvimento de soluções web e SaaS. Também trabalhei com suporte técnico na CI Informática, atendendo chamados, investigando falhas, analisando logs e bancos de dados, implantando sistemas e orientando usuários.
 
-- **Tecnologias:** HTML, CSS, JavaScript
+## Formação
 
-### [Invoice Generator](https://artur-source.github.io/invoice-generator/)
+Tecnologia em Análise e Desenvolvimento de Sistemas, UniPiaget, concluído em 2026.
 
-Gerador de faturas estático e profissional, ideal para freelancers e pequenas empresas.
+## Como avalio um projeto
 
-- **Tecnologias:** HTML, CSS, JavaScript
+Gosto de deixar as decisões visíveis. Por isso, os projetos principais devem trazer instruções de execução, variáveis de ambiente de exemplo, arquitetura, testes executados, limitações conhecidas e um pipeline de validação. Prefiro afirmar menos e mostrar mais.
 
-### [Portfólio Pessoal](https://artur-source.github.io/portfolio-artur-novo/)
+## Contato
 
-Meu portfólio pessoal, onde apresento meus projetos e habilidades. Uma vitrine para meus trabalhos e aprendizados.
+Estou aberto a oportunidades júnior em desenvolvimento Full Stack, backend, frontend, QA Automation, análise de sistemas e áreas próximas de dados.
 
-- **Tecnologias:** HTML, CSS, JavaScript
-
-### [Currículo Online](https://artur-source.github.io/artur-alves-curriculo/)
-
-Uma página de currículo online, detalhando minha trajetória acadêmica e profissional, além das minhas competências técnicas.
-
-- **Tecnologias:** HTML, CSS, JavaScript
-
-## Experiência Profissional
-
-#### Auxiliar Técnico | Ci Informática
-
-Agosto 2025 – Presente
-
-Suporte técnico e manutenção de rotinas sistêmicas. Atuação na análise de ocorrências e proposição de soluções para o aprimoramento da infraestrutura.
-
-#### Estagiário | Ci Informática
-
-Março 2025 – Agosto 2025
-
-Suporte operacional e mitigação de falhas técnicas em hardware e software, com foco em rigor metodológico e colaboração multidisciplinar.
-
-## Formação Acadêmica
-
-- **Análise e Desenvolvimento de Sistemas** (5º semestre) - UniPiaget.
-
----
-
-_Este README foi atualizado para refletir minhas habilidades e projetos mais recentes._
+[Enviar e-mail](mailto:arturalvessantos2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338) · [Portfólio](https://artur-source.github.io/portfolio-artur-novo/)

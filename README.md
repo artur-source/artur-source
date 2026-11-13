@@ -1,68 +1,55 @@
 # Artur Alves Santos
 
-## Desenvolvedor Full Stack Júnior | Analista de Sistemas
+**Engenharia de Software · Sistemas · Produtos Digitais**
 
-Construo aplicações web, SaaS e ferramentas de negócio, do requisito ao deploy. Trabalho principalmente com TypeScript, React, Next.js, Node.js, PostgreSQL e Supabase, com experiência prática em suporte técnico, SQL, automação e análise de incidentes.
+Desenvolvo soluções de software com atenção ao problema que precisam resolver, à operação em que serão utilizadas e à manutenção depois da entrega. Minha experiência em suporte técnico influencia essa abordagem: entender o ambiente, investigar falhas e validar resultados são partes do mesmo trabalho.
 
-No GitHub, publico produtos reais, ferramentas de engenharia e estudos técnicos com código, testes e documentação verificáveis.
+Sou formado em Análise e Desenvolvimento de Sistemas e cofundador da [Core & Patch](https://github.com/Core-Patch), onde participo da concepção e do desenvolvimento de produtos e soluções digitais.
 
-[Portfólio](https://artur-source.github.io/portfolio-artur-novo/) · [LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338) · [Currículo](https://artur-source.github.io/artur-alves-curriculo/) · [Contato](mailto:arturalvessantos2@gmail.com)
+[Portfólio](https://artur-source.github.io/portfolio-artur-novo/) · [LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338) · [Currículo](https://artur-source.github.io/artur-alves-curriculo/) · [E-mail](mailto:arturalvessantos2@gmail.com)
 
-## O que faço
+## Áreas em que trabalho
 
-Atuo entre produto e operação. Levanto requisitos, modelo fluxos, implemento interfaces e APIs, conecto bancos de dados, escrevo testes e acompanho o software depois do deploy. A experiência com suporte técnico também faz parte dessa forma de trabalhar: investigar logs, reproduzir falhas e explicar uma solução importam tanto quanto escrever o código.
+- **Software e produto:** levantamento de requisitos, modelagem de fluxos, interfaces, APIs, bancos de dados e integração de serviços.
+- **Sistemas e operação:** diagnóstico técnico, permissões, protocolos, infraestrutura, observabilidade e manutenção.
+- **Qualidade e entrega:** versionamento, testes, revisão, automação de validações e documentação de decisões.
+- **IA e automação:** experimentos com modelos de linguagem, processamento de dados e automação de tarefas.
 
-## Stack principal
+## Projetos selecionados
 
-| Área | Tecnologias e práticas |
-|---|---|
-| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, APIs REST, tRPC, Zod, Drizzle ORM |
-| Dados | PostgreSQL, Supabase, MySQL, SQL, Python, pandas |
-| Qualidade | Vitest, pytest, Playwright, testes de API, lint e typecheck |
-| Operação | Git, GitHub Actions, Docker, Vercel, troubleshooting e análise de logs |
+Os projetos abaixo são públicos e podem ser examinados diretamente. Alguns sistemas desenvolvidos em contexto empresarial ou para clientes permanecem privados.
 
-## Projetos em destaque
+| Projeto | Problema e abordagem | Tecnologias |
+| --- | --- | --- |
+| [ShareForge](https://github.com/artur-source/shareforge) | Administração de compartilhamentos SMB e permissões NTFS, com validação de acesso e separação por camadas. | C#, .NET 8, WPF, xUnit |
+| [PrintCheck ESC/POS](https://github.com/artur-source/printcheck-escpos) | Diagnóstico de impressoras térmicas, descoberta de dispositivos e comunicação por spooler e TCP/IP. | C#, .NET 8, Windows Forms, ESC/POS |
+| [CI Toolkit](https://github.com/artur-source/ci-toolkit) | Ferramentas de diagnóstico e manutenção de estações Windows organizadas em módulos. | C#, .NET 8, WPF |
+| [GPT From Scratch](https://github.com/artur-source/gpt-from-scratch) | Implementação educacional de um pequeno Transformer para estudar tokenização, atenção causal, treinamento e geração. | Python, PyTorch |
+| [AI Slop Detector](https://github.com/artur-source/ai-slop-detector) | Experimento comparativo de classificação de texto com modelo local e API. Métricas finais ainda pendentes no projeto. | Python, Flask, Transformers |
+| [RegiFlex Automation Report](https://github.com/artur-source/regiflex-automation-report) | Automação demonstrativa de captura de página pública, tratamento de dados fictícios e geração de relatórios. | Python, Selenium, pandas |
 
-### Produtos reais
+## Produtos e trabalho em equipe
 
-| Projeto | O que demonstra |
-|---|---|
-| [RegiFlex](https://appregiflex.com.br) | SaaS para clínicas com fluxo de pacientes, check-in, filas, permissões e módulos operacionais. A representação pública do projeto está em [`regiflex-polish`](https://github.com/artur-source/regiflex-polish). |
-| JV Store | E-commerce desenvolvido para cliente real, com catálogo, estoque, checkout, painel administrativo e integração de pagamentos. O código permanece privado. |
-| JSC / Eukairia | Sistema privado para site, inscrições, consulta e operação de evento, com Next.js, Supabase, RLS, autenticação e painel administrativo. |
+Na **[Core & Patch](https://github.com/Core-Patch)**, participo da construção de soluções digitais e do trabalho técnico necessário para mantê-las utilizáveis. Entre as iniciativas da organização estão:
 
-### Engenharia e qualidade
+- **[CoreHub](https://github.com/Core-Patch/CoreHub):** plataforma interna voltada à operação da Core & Patch, com fluxos comerciais, projetos e controles operacionais.
+- **[Core Knowledge](https://github.com/Core-Patch/Core-Patch-core-knowledge):** iniciativa para organizar conhecimento e decisões técnicas governadas.
+- **[RegiFlex](https://appregiflex.com.br/):** produto SaaS para operações de clínicas, com gestão de fluxos e informações operacionais.
 
-| Projeto | O que demonstra |
-|---|---|
-| [ShareForge](https://github.com/artur-source/shareforge) | Ferramenta Windows em C#/.NET 8 para compartilhamentos SMB e permissões NTFS, com separação por camadas e testes xUnit. |
-| [PrintCheck ESC/POS](https://github.com/artur-source/printcheck-escpos) | Diagnóstico de impressoras térmicas, descoberta de dispositivos, transporte TCP/IP e construção de comandos ESC/POS. |
-| OrderFlow | Plataforma orientada a eventos para processamento de pedidos, com filas, retry, idempotência e observabilidade. Repositório público após a primeira versão validada. |
-| TicketFlow | Sistema de chamados usado como laboratório de Full Stack e QA Automation, com testes de unidade, API, integração e E2E. Repositório público após a primeira versão validada. |
+Esses projetos são trabalhos de equipe. Parte dos repositórios é privada; as descrições acima contextualizam a atuação, sem expor código, dados internos ou atribuir autoria individual ao trabalho coletivo.
 
-### Dados, IA e frontend
+## Tecnologias e práticas
 
-| Projeto | O que demonstra |
-|---|---|
-| DataPulse | Pipeline reproduzível de ingestão, transformação, qualidade de dados e camada analítica com dashboard. Repositório público após a primeira versão validada. |
-| [GPT From Scratch](https://github.com/artur-source/gpt-from-scratch) | Implementação educacional de um modelo Transformer em PyTorch, com atenção causal, tokenização por caractere, treino e geração. |
-| Pulse Analytics | Interface de analytics com filtros, gráficos, estados de carregamento, acessibilidade e identidade visual própria. Repositório público após a primeira versão validada. |
+| Contexto | Ferramentas e conhecimentos |
+| --- | --- |
+| Aplicações web | TypeScript, JavaScript, React, Next.js, Node.js, APIs REST |
+| Sistemas desktop | C#, .NET, WPF, Windows Forms, integração com Windows |
+| Dados e automação | SQL, PostgreSQL, Supabase, Python, pandas, Selenium |
+| Engenharia e operação | Git, GitHub Actions, Docker, diagnóstico de incidentes, logs |
+| Validação | Testes automatizados, revisão de código, documentação técnica |
 
-## Experiência
-
-Sou cofundador e desenvolvedor Full Stack na Core & Patch, onde participo do planejamento e do desenvolvimento de soluções web e SaaS. Também trabalhei com suporte técnico na CI Informática, atendendo chamados, investigando falhas, analisando logs e bancos de dados, implantando sistemas e orientando usuários.
-
-## Formação
-
-Tecnologia em Análise e Desenvolvimento de Sistemas, UniPiaget, concluído em 2026.
-
-## Como avalio um projeto
-
-Gosto de deixar as decisões visíveis. Por isso, os projetos principais devem trazer instruções de execução, variáveis de ambiente de exemplo, arquitetura, testes executados, limitações conhecidas e um pipeline de validação. Prefiro afirmar menos e mostrar mais.
+Prefiro apresentar decisões e limitações junto do código. Cada repositório tem seu próprio estágio de maturidade; funcionalidades descritas, testes disponíveis e resultados efetivamente medidos devem ser conferidos na documentação de cada projeto.
 
 ## Contato
 
-Estou aberto a oportunidades júnior em desenvolvimento Full Stack, backend, frontend, QA Automation, análise de sistemas e áreas próximas de dados.
-
-[Enviar e-mail](mailto:arturalvessantos2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338) · [Portfólio](https://artur-source.github.io/portfolio-artur-novo/)
+[LinkedIn](https://www.linkedin.com/in/artur-alves-a4b297338) · [Portfólio](https://artur-source.github.io/portfolio-artur-novo/) · [E-mail](mailto:arturalvessantos2@gmail.com)
